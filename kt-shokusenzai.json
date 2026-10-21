@@ -1,6 +1,7 @@
 {
  "work": "続千載和歌集",
  "work_id": "kt-shokusenzai",
+ "repo": "kumoi-no-fumigura/shokusenzai-wakashu",
  "yomi": "しょくせんざいわかしゅう",
  "category": "勅撰集",
  "kind": "kashu",
@@ -25785,6 +25786,5 @@
    "text": "こととはるる々々の松原色深み木だかき影の賴もしきかな",
    "sachu": ""
   }
- ],
- "repo": "kumoi-no-fumigura/shokusenzai-wakashu"
+ ]
 }
